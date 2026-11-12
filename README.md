@@ -45,8 +45,6 @@ The application provides structured customer data management, business intellige
 
 ## Application Screenshots
 
-## Application Screenshots
-
 ### 1. Login Page
 ![Login Page](Login%20page.png)
 
@@ -93,13 +91,16 @@ The application provides structured customer data management, business intellige
 ![Reports](Reports.png)
 
 ### 16. Audit Log
-![Audit Log](Aduitlog.png)
+![Audit Log](AuditLog.png)
 
 ### 17. User Management
 ![User Management](Usermanagement.png)
 
 ### 18. Dropdown Management
 ![Dropdown Management](DropdownManagement.png)
+
+## Project Objective
+
 ## Project Objective
 
 To develop a centralized CRM platform that simplifies customer data management, improves business information accessibility, supports reporting, and streamlines internal business workflows.
