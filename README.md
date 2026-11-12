@@ -1,4 +1,3 @@
-
 # Real-Time Enterprise SALOC CRM Web Application
 
 A web-based Enterprise Customer Relationship Management (CRM) application designed to streamline customer information management, centralize business data, and support efficient business operations.
