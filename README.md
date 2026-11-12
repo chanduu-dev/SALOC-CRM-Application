@@ -10,18 +10,18 @@ The application provides structured customer data management, business intellige
 
 ## Key Modules
 
-- Customer Master Management
-- Business Profile Management
-- Company Profile Management
+- Customer Master 
+- Business Profile 
+- Company Profile 
 - Financial Intelligence
 - Credit Assessment
-- Annual Purchase Management
-- Installed Brands Management
-- Decision Maker Management
+- Annual Purchase 
+- Installed Brands
+- Decision Maker 
 - Sales Intelligence
-- Customer Relationship Management
+- Customer Relationship 
 - Risk Analysis
-- Reports and Analytics
+- Reports 
 - Audit Log
 - User Management
 - Dropdown Management
@@ -45,60 +45,61 @@ The application provides structured customer data management, business intellige
 
 ## Application Screenshots
 
+## Application Screenshots
+
 ### 1. Login Page
-![Login Page](images/Login%20page.png)
+![Login Page](Login%20page.png)
 
 ### 2. Dashboard
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 ### 3. Customer Master
-![Customer Master](images/CustomerMaster.png)
+![Customer Master](CustomerMaster.png)
 
 ### 4. Business Profile
-![Business Profile](images/BusinessProfile.png)
+![Business Profile](BusinessProfile.png)
 
 ### 5. Company Profile
-![Company Profile](images/CompanyProfile.png)
+![Company Profile](CompanyProfile.png)
 
 ### 6. Financial Intelligence
-![Financial Intelligence](images/FinancialIntelligence.png)
+![Financial Intelligence](FinancialIntelligence.png)
 
 ### 7. Credit Assessment
-![Credit Assessment](images/CreditAssesment.png)
+![Credit Assessment](CreditAssesment.png)
 
 ### 8. Annual Purchase
-![Annual Purchase](images/AnnualPurchase.png)
+![Annual Purchase](AnnualPurchase.png)
 
 ### 9. Installed Brands
-![Installed Brands](images/Installedbrands.png)
+![Installed Brands](Installedbrands.png)
 
 ### 10. Decision Makers
-![Decision Makers](images/DecisionMakers.png)
+![Decision Makers](DecisionMakers.png)
 
 ### 11. Purchase Head
-![Purchase Head](images/Purchasehead.png)
+![Purchase Head](Purchasehead.png)
 
 ### 12. Sales Intelligence
-![Sales Intelligence](images/Salesintelligence.png)
+![Sales Intelligence](Salesintelligence.png)
 
 ### 13. Customer Relationship
-![Customer Relationship](images/Customerrelationship.png)
+![Customer Relationship](Customerrelationship.png)
 
 ### 14. Risk Analysis
-![Risk Analysis](images/Riskanalysis.png)
+![Risk Analysis](Riskanalysis.png)
 
 ### 15. Reports
-![Reports](images/Reports.png)
+![Reports](Reports.png)
 
 ### 16. Audit Log
-![Audit Log](images/Aduitlog.png)
+![Audit Log](Aduitlog.png)
 
 ### 17. User Management
-![User Management](images/Usermanagement.png)
+![User Management](Usermanagement.png)
 
 ### 18. Dropdown Management
-![Dropdown Management](images/DropdownManagement.png)
-
+![Dropdown Management](DropdownManagement.png)
 ## Project Objective
 
 To develop a centralized CRM platform that simplifies customer data management, improves business information accessibility, supports reporting, and streamlines internal business workflows.
